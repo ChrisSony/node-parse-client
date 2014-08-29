@@ -1,4 +1,8 @@
-node-parse-client
-=================
+<a href="http://promisesaplus.com/">
+    <img src="https://promises-aplus.github.io/promises-spec/assets/logo-small.png"
+         align="right" valign="top" alt="Promises/A+ logo" />
+</a>
 
-Parse REST API client for Node.js
+# Parse client for Node.js
+
+
