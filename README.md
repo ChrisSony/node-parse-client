@@ -3,6 +3,6 @@
          align="right" valign="top" alt="Promises/A+ logo" />
 </a>
 
-# Parse client for Node.js
+# Parse client for Node.js with promises
 
 
